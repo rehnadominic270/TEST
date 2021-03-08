@@ -1,0 +1,7 @@
+What is the difference between Scenario and Scenario Outline?
+
+
+Scenario gives and idea of what we have to test .It is a kind of high level lest case
+
+Scenario Oultine -We can use to run the same test case for mutiple test data
+We can use keyword Examples to mention the test data.
