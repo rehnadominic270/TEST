@@ -1,0 +1,7 @@
+What is POM?
+
+Page Object Model is a design pattern for creating object repository for web applications.
+In POM we  can have web elements as page object and we have page methods which perform operations on those web
+elements.
+
+for Each webPage there will be a page class and we have corresponding test class where we perform validations
