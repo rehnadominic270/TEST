@@ -1,0 +1,15 @@
+Git is a version control tool for managing  files and directories.
+We can track and record previous changes and we can maintain different versions of source code.
+Developers can work independently by using git
+
+
+Different commands are
+git init- to initialize the working directory
+git add- to add files to staging area
+
+git gui- for pushing the changes from local repository to remote repository
+
+or we can use the below commands instead of git gui.
+
+git commit -m "message"
+git push orgin 
